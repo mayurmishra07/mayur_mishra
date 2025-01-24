@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mayur Mishra - Personal Website</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <h1>Mayur Mishra</h1>
+    <p>Chicago, Illinois | mmmishra@neiu.edu | 312-646-9044</p>
+    <p><a href="https://linkedin.com/in/mayurmmishra" target="_blank">LinkedIn</a></p>
+  </header>
+
+  <!-- Professional Overview -->
+  <section>
+    <h2>Professional Overview</h2>
+    <p>A finance and marketing expert with 7+ years of experience in financial analysis, budgeting, market research, and campaign management. Proficient in aligning financial strategies with marketing goals to boost return on investment, streamline processes, and drive revenue growth.</p>
+  </section>
+
+  <!-- Relevant Coursework -->
+  <section>
+    <h2>Relevant Coursework</h2>
+    <ul>
+      <li>Financial Planning and Analysis</li>
+      <li>Financial Modeling</li>
+      <li>Data Analysis and Visualization</li>
+      <li>Advanced Excel</li>
+      <li>SQL and Database Management</li>
+      <li>Risk Management</li>
+      <li>Business Development and Market Research</li>
+      <li>Sales Management</li>
+    </ul>
+  </section>
+
+  <!-- Experience -->
+  <section>
+    <h2>Experience</h2>
+
+    <div class="experience-card">
+      <h3>Financial Analyst</h3>
+      <h4>Orbi Health Private Limited (2022 – 2024)</h4>
+      <ul>
+        <li>Achieved a 10% reduction in expenses by analyzing trends in patient statistics and revenue.</li>
+        <li>Reduced operational expenses by $600K in one fiscal year through cost optimization.</li>
+        <li>Developed financial modeling for a new service line, resulting in a 25% increase in patient volume.</li>
+      </ul>
+    </div>
+
+    <div class="experience-card">
+      <h3>Junior Financial Analyst</h3>
+      <h4>Vedantu Innovation Private Limited (2020 – 2022)</h4>
+      <ul>
+        <li>Boosted profitability by 10% and improved forecasting accuracy with advanced analytics.</li>
+        <li>Directed budgeting initiatives, achieving a 12% cost reduction.</li>
+        <li>Generated monthly, quarterly, and annual financial reports.</li>
+      </ul>
+    </div>
+
+    <div class="experience-card">
+      <h3>Business Development Manager</h3>
+      <h4>Docon Technology Private Limited (2019 – 2020)</h4>
+      <ul>
+        <li>
